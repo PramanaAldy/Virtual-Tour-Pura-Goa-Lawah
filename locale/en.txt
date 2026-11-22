@@ -1,0 +1,258 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_A88CC9AC_BF7A_8D4D_41C2_2010ED3F59B6.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/apit-lawang-kiwa-tengen
+WebFrame_E0E0BA46_F451_BA86_41EA_0B32C0837B42.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/areal-parkir
+WebFrame_AB1B49AC_BF44_12EE_41C5_D655054EADFD.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/bale-bengong
+WebFrame_ABE9A9AC_BF46_6914_41B0_2751B003956A.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/bale-kul-kul
+WebFrame_AA52B9AC_BF54_94B1_41D5_338D8BB49347.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/bale-pasandekan
+WebFrame_ABB699AC_BF54_6CFE_41E5_CFA88EB715FE.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/bale-pasandekan
+WebFrame_AB3B59AC_BF4C_BD64_41CE_AF68FF691AB9.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/bale-pemangku
+WebFrame_ABF529AC_BF46_94DF_41D1_8252700D7D9B.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/bale-saka-wulu-atau-bale-gong
+WebFrame_A88EC9AC_BF47_C4D1_41B8_411AC4233C2E.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/bale-saka-wulu-atau-bale-pengayah
+WebFrame_A8BC99AC_BF7F_5EE9_41E7_783B66A8D958.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/gedong-limas-catu-stana-ida-bhatara-ring-danu
+WebFrame_A8F0F9AC_BF7D_CC11_41DA_1292A3915452.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/gedong-limas-sari-stana-ida-bhatara-sri
+WebFrame_AB08B9AC_BF43_403B_41E7_500EBF650990.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/gedong-pasimpangan-bhatara-gunung-agung
+WebFrame_AB35D9AC_BF4C_4446_41BF_9C12671ECE93.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/gedong-pasimpangan-bhatara-gunung-lebah
+WebFrame_AB02E9AC_BF7F_E09E_41D0_1A4526A9A692.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/gedong-sari-stana-bhatara-sri-dan-sedhana
+WebFrame_A8ECF9AC_BF41_6D08_41D0_9DB3AAEFF2B5.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/gedong-stana-bhatara-segara-sanghyang-baruna
+WebFrame_AA6579AC_BF42_5525_41DB_07738A59CCB5.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/gedong-stana-ida-ratu-ayu-mas-maketel
+WebFrame_AB20D9AC_BF45_DA04_41D8_AA477EDC91B3.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/kolam-ikan
+WebFrame_AA6399AC_BF4F_50EC_41C2_0296476470A2.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/meru-tumpang-sapta-stana-ida-bhatara-brahma
+WebFrame_AB0469AC_BF4E_3E7E_41B9_3C87F14BEE0D.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/meru-tumpang-solas-stana-ida-bhatara-siwa-iswara
+WebFrame_A88529AC_BF7C_E028_41B3_5838954A13B8.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/meru-tumpang-tiga-stana-ida-bhatara-andakasa
+WebFrame_A88019AC_BF4D_D654_41BF_912B1D0C5565.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/meru-tumpang-tiga-stana-ida-bhatara-wisnu
+WebFrame_ABDB19AC_BF40_039D_41E4_9F5E0BB1CE15.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/padmacapah-pasimpangan-bhatara-dalem-ped-ratu-ayu-mas-macaling
+WebFrame_A89CA9AC_BF73_DDAF_41A6_98A8FFE6E10D.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/padmacapah-stana-bhatara-ring-goalawah-bhatara-mahesora-bhatara-naga-basuki
+WebFrame_A88519AC_BF78_8672_41AD_88182DEFCCC7.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/palinggih-aket-stana-ida-bhatara-manik-mas
+WebFrame_A8C169AC_BF79_FB9C_41CF_FC9C2AFE9F7E.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/palinggih-sakaluwang-stana-mpu-kuturan
+WebFrame_AB98B9AC_BF4F_D65B_41E0_A6563711ABC8.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/palinggih-saptapatala-stana-sang-hyang-anantabhoga
+WebFrame_E05ADF6F_F452_BA86_41DE_513B3A924264.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/patung-simbol-pura-goa-lawah
+WebFrame_E7AB727E_F452_CA86_41E3_5ADAD2C01737.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/pelinggih-segara-pura-goa-lawah
+WebFrame_ABCAD9AC_BF48_FCA5_41D1_5DAC023DFB7A.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/pengaruman-linggih-rambut-sedhana
+WebFrame_ABDE79AC_BF49_A79D_41DE_DA602B75C68D.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/piasan-agung-bale-pawedan
+WebFrame_ABF429AC_BF4B_69B0_41DC_62765DF1DA94.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/piasan-lawang-kori-agung-panggungan
+WebFrame_E3ECD922_F7CA_92DE_41C9_8D7141DDE2A7.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/pura-beji
+WebFrame_A8D4E9AC_BF71_B59D_41D2_EED8825132C3.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/sanggar-agung-stana-hyang-widhi
+WebFrame_E0868B76_F453_FA99_41D8_9E9DDA427CA8.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/toilet
+WebFrame_E107F332_F45F_4A99_41E5_CFFE31978505.url = https://nusaheritage.id/objekmetadata/warisanberwujud/pura-goa-lawah/wantilan
+WebFrame_92E3ED45_8633_2DB8_41CC_DDA4AEBEBB1D.url = https://puragoalawahvirtualtour.site/vista-informasi-pura/
+WebFrame_95583D45_8628_1E03_41C9_CE2D0C9D063C.url = https://puragoalawahvirtualtour.site/vista-informasi-pura/
+WebFrame_92029D45_8629_B02B_41CE_019A7929BAB8.url = https://puragoalawahvirtualtour.site/vista-sejarah-pura/
+WebFrame_932CBD45_8633_6AD0_418F_B84AE2401EAB.url = https://puragoalawahvirtualtour.site/vista-sejarah-pura/
+WebFrame_4779E509_5EBC_A483_4197_2388ACE0B1A4.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.4611819253423!2d115.46625297501322!3d-8.551573091491946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd212002b27b8a9%3A0x64d9703162191aad!2sPura%20Goa%20Lawah!5e0!3m2!1sid!2sid!4v1750624258855!5m2!1sid!2sid
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3945.4611819253423!2d115.46625297501322!3d-8.551573091491946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd212002b27b8a9%3A0x64d9703162191aad!2sPura%20Goa%20Lawah!5e0!3m2!1sid!2sid!4v1750624258855!5m2!1sid!2sid
+
+## Media
+
+### Audio
+audiores_A777BD45_8733_7554_41DD_4DC9A7226ABB.mp3Url = media/audio_98FA9D45_8662_EE6F_41D1_8251A69918F3_en.mp3
+audiores_A63F5D45_872C_DEDC_41D6_37840A69B415.mp3Url = media/audio_9C755D45_8618_47E9_41D9_EA41D15B5B8C_en.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_83AB3587_8DB9_BBB2_41C8_DDB4F1EDE4B0.label = 1
+panorama_03DF030D_0E23_0639_4190_034B6A2FD0A3.label = 10
+panorama_0027B30D_0E30_2B96_4181_2388BA8185FF.label = 100
+panorama_0026C30D_0E30_090F_41A6_3E029D5F707B.label = 101
+panorama_0026D30D_0E30_6A12_41A8_50C496A78F01.label = 102
+panorama_0026F30D_0E30_4BFB_418C_48F3CEC3A1A2.label = 103
+panorama_0027730D_0E30_ABD6_41A4_7C6FBAFD3928.label = 104
+panorama_0029D30D_0E30_8C55_41A9_02539BA331B3.label = 105
+panorama_0028630D_0E30_D02F_41A4_595C10269173.label = 106
+panorama_0029530D_0E31_39FB_41AA_884EF05E9B72.label = 107
+panorama_0027730D_0E31_0143_418C_03311061DBCC.label = 108
+panorama_002B730D_0E31_64B0_419C_2BA857E473DA.label = 109
+panorama_03DDE30D_0E23_67CB_41A0_93CB2E649FE8.label = 11
+panorama_002A730D_0E31_4933_4175_3B44F6E98EF2.label = 110
+panorama_002C530D_0E31_933F_419D_DDEC167DD669.label = 111
+panorama_FEBBBEBF_F300_25C9_41C2_8AF9F264CCD0.label = 112
+panorama_FE752A9A_F301_EDCB_41E8_9EBABEA60619.label = 113
+panorama_FE764649_F301_E549_41CA_4527CF8817B0.label = 114
+panorama_FE7681A5_F301_DFF9_41EA_3EEC030090EA.label = 115
+panorama_FE76BCBF_F300_25C9_41E0_95FFB181B913.label = 116
+panorama_FE76B82C_F300_2CCF_41E1_16C67F31A9BB.label = 117
+panorama_FE7692A7_F300_5DF9_41B4_73BA25DD4CC6.label = 118
+panorama_FE769D80_F300_67B7_41D6_78915AE21F7E.label = 119
+panorama_03DE130D_0E23_409D_418D_FE26C774F644.label = 12
+panorama_FE76F898_F300_6DD7_41DB_882732ABFF9E.label = 120
+panorama_FE7574B4_F300_25DF_41E0_177DA418E401.label = 121
+panorama_FE769199_F300_3FC9_4174_12BD5E8E7AFD.label = 122
+panorama_FE752D9C_F300_27CF_41E3_37686D0E6F23.label = 123
+panorama_FE75B8BC_F300_EDCF_41DF_B1E23F67CB7A.label = 124
+panorama_FE75D5A9_F300_E7C9_41E5_31E41442903E.label = 125
+panorama_FE75C3E3_F300_2378_41D1_4594287AFEAA.label = 126
+panorama_FE75D0B7_F300_3DD8_41E7_30DAFB10205D.label = 127
+panorama_FE750E53_F300_2558_41DC_44B1F398297A.label = 128
+panorama_FE751E4C_F300_6548_41E0_59E6066B19C9.label = 129
+panorama_03DDC30D_0E23_A1DC_41A5_8FFE0BD83B4A.label = 13
+panorama_FE752EDF_F300_6549_41ED_7ABCE9FF2479.label = 130
+panorama_FE750D8C_F300_27C8_41DC_9A353D307E9D.label = 131
+panorama_FE74BBC7_F300_23B8_41E5_EF1FE3C339FB.label = 132
+panorama_FE73FAD1_F307_ED59_41EC_5EF32724CB4E.label = 133
+panorama_FE72C821_F307_ECF9_41C2_A43D1118DC54.label = 134
+panorama_FE7E0B73_F300_2359_41EC_0D7D7AFF9E1F.label = 135
+panorama_FE7C3F6D_F300_2349_41D0_C44CA93A8C40.label = 136
+panorama_FE7C7100_F300_7CB7_4190_C98666C330A0.label = 137
+panorama_FE7310B4_F300_5DDF_41EC_5D1C0921F2FE.label = 138
+panorama_FE7C7F3C_F300_24CF_41E5_28BB0B347F5A.label = 139
+panorama_03DFB30D_0E23_81F1_4181_AB347CD2A1BF.label = 14
+panorama_FE7D82BF_F300_DDC9_41EB_C10858A90812.label = 140
+panorama_FE737715_F300_E4D9_41EC_A0F0E231A741.label = 141
+panorama_FE7CA979_F300_2F48_41D7_38E1920F3290.label = 142
+panorama_FE734864_F300_2D7F_41D6_2B74B9DDF3B5.label = 143
+panorama_FE73B6A5_F300_65F9_41BF_CB69311DDA1E.label = 144
+panorama_FE7362A0_F300_7DF7_41E5_7827C294137A.label = 145
+panorama_FE7CD0AF_F300_5DC8_41A1_1D71E6F3CE3B.label = 146
+panorama_FE7C2531_F300_24D8_41DA_3F0B734EAC66.label = 147
+panorama_FE72F318_F301_DCD7_41E5_DE3E6DFB1EFF.label = 148
+panorama_FE7D5089_F301_FDC9_41D6_D8FD8964BC7C.label = 149
+panorama_03DF230D_0E23_E841_4194_ABAAA05EE80A.label = 15
+panorama_FE7DBE67_F301_E579_41E7_04D598F62108.label = 150
+panorama_FE7D1B09_F300_2CC9_41A6_58D9BA07C812.label = 151
+panorama_03DF830D_0E24_358B_41A6_52612426D15D.label = 16
+panorama_03DD630D_0E24_7FC8_41A0_A05CDC365D9D.label = 18
+panorama_03DEA30D_0E24_58FE_4192_A3DD6C99C63E.label = 19
+panorama_805D6587_8DB9_E67F_41DB_1375C419B0CB.label = 2
+panorama_03DE730D_0E24_BF42_419E_AFF48066B4FF.label = 20
+panorama_FE2BAC14_F300_E4D8_41E1_C1B366B9CDC1.label = 21
+panorama_03DEE30D_0E24_DF59_41A7_8ECD77A0B0F0.label = 22
+panorama_0020530D_0E25_2628_41AA_FAE37E3FE822.label = 23
+panorama_03DE530D_0E25_0F87_41A3_5B414C539BD9.label = 24
+panorama_03DE830D_0E25_5906_419E_88D6A4B5786E.label = 25
+panorama_03DF330D_0E25_BA71_4199_75E5F509B675.label = 26
+panorama_0024930D_0E25_84CF_41A1_C05A30CED666.label = 27
+panorama_03DEF30D_0E25_E521_41AB_012A51207E0A.label = 28
+panorama_03DFB30D_0E25_C5F1_4199_457ABEA939BA.label = 29
+panorama_012F530D_0E22_6044_4199_A5D6A197582A.label = 3
+panorama_0020D30D_0E26_286D_41A5_60A3D6156116.label = 30
+panorama_0020930D_0E26_7152_41AB_0B5DF3FBFC42.label = 31
+panorama_03DF230D_0E26_53BB_4193_2E26D083F0B9.label = 32
+panorama_03DFD30D_0E26_B288_4186_67444B1F81FD.label = 33
+panorama_03DF030D_0E26_AC5B_41A8_3DB974AC411B.label = 34
+panorama_0020930D_0E26_8D5E_4181_739F8D430A4F.label = 35
+panorama_0022430D_0E26_ECAA_41A3_CD748886B21E.label = 36
+panorama_0021E30D_0E27_30C4_41A7_E2722C49097A.label = 37
+panorama_0020930D_0E27_1AB3_41A0_D85CAFD5C330.label = 38
+panorama_0021130D_0E27_7DBA_4184_F4873F30C303.label = 39
+panorama_03DDA30D_0E22_4A1A_419D_B58570945961.label = 4
+panorama_0020030D_0E27_5EAF_417E_C3FA94706EAB.label = 40
+panorama_0023F30D_0E27_A37A_419B_EEE3C5B3C44E.label = 41
+panorama_0021130D_0E27_86DC_419F_1F02CA6634DC.label = 42
+panorama_0023030D_0E27_EA5D_41A8_6A0F0AA0D4B2.label = 43
+panorama_0024930D_0E27_CE30_41A1_B9774AB931C3.label = 44
+panorama_0029630D_0E28_1539_419E_F58BC1054D3F.label = 45
+panorama_0023330D_0E28_7ECB_41A2_24149B12A5EB.label = 46
+panorama_0022E30D_0E28_5D95_4186_783CC1BC76F6.label = 47
+panorama_0022E30D_0E28_BEE5_4199_172303588487.label = 48
+panorama_0021F30D_0E28_98F5_4180_0E9575FC7C5B.label = 49
+panorama_03DD430D_0E22_A954_41AA_6CBC2186F79C.label = 5
+panorama_0021630D_0E28_F95D_41A5_2E0E1FC46BE0.label = 50
+panorama_0022A30D_0E28_C365_4193_D64842055FFF.label = 51
+panorama_0024530D_0E29_5F04_419A_FAC0BC554AEE.label = 54
+panorama_0022330D_0E29_A3DF_4186_907EA30710F0.label = 55
+panorama_0025B30D_0E29_8513_41AB_EECA0DFC52A7.label = 56
+panorama_0021430D_0E29_E98E_4183_117F03253D28.label = 57
+panorama_0022030D_0E29_CF26_41AA_BA0CDF2A3C2F.label = 58
+panorama_0022A30D_0E2A_2FD4_41A4_CD03D13FF1EC.label = 59
+panorama_03DD930D_0E22_8B71_4188_4541DA9A83C9.label = 6
+panorama_0024630D_0E2A_7211_41A3_F32FE7944FB6.label = 60
+panorama_0023030D_0E2A_6C03_41A6_E2B3E5087328.label = 61
+panorama_0023730D_0E2A_4CD3_41A2_94B33727E99B.label = 62
+panorama_0024630D_0E2A_9A75_4198_ADBE4600B649.label = 63
+panorama_0024A30D_0E2A_FF60_4194_541BAB41E843.label = 64
+panorama_0027230D_0E2A_CB46_41A8_D76606E62E28.label = 65
+panorama_0028430D_0E2B_2D0D_4184_EA5C664E083A.label = 66
+panorama_0025D30D_0E2B_77B6_419B_86479A3DD2DE.label = 67
+panorama_0025B30D_0E2B_5BA1_41A1_46481DC31737.label = 68
+panorama_0024530D_0E2B_A030_41AA_17ADA72FABCD.label = 69
+panorama_03DEF30D_0E22_E4B0_419F_88E1DE5C2511.label = 7
+panorama_0025830D_0E2B_8906_4116_903BAD6512D0.label = 70
+panorama_0024230D_0E2B_E813_4180_5C11919A7BA7.label = 71
+panorama_0024C30D_0E2B_CE15_414E_9703A807C761.label = 72
+panorama_002A830D_0E2C_1B7E_41A7_A38FD4225FD7.label = 73
+panorama_0024030D_0E2C_78B3_41A0_84611897E99C.label = 74
+panorama_0029230D_0E2C_4483_41A2_A4B094A5659E.label = 75
+panorama_0029030D_0E2C_AD14_41A5_211D1D04265F.label = 76
+panorama_0024030D_0E2C_F08B_4187_CF9F5CC04812.label = 77
+panorama_0029630D_0E2C_DFF2_4187_3A30E78415DF.label = 78
+panorama_0024E30D_0E2D_279E_418B_777CD2AB582A.label = 79
+panorama_03DD130D_0E22_C6FF_41A2_F067CF272E6C.label = 8
+panorama_0029A30D_0E2D_04A6_4190_7007FC209AE1.label = 80
+panorama_0025D30D_0E2D_6B86_4188_62D9FB7AC23F.label = 81
+panorama_0025D30D_0E2D_4B9D_4182_3EF60350A8B3.label = 82
+panorama_0025730D_0E2D_ABE3_41A6_252EABD1F64E.label = 83
+panorama_0025830D_0E2D_892C_417B_07FEA8A786D8.label = 84
+panorama_0025E30D_0E2D_EA9D_41A2_55EB9EB26BA1.label = 85
+panorama_0024C30D_0E2D_CBFD_41A6_57C0AB4B7F28.label = 86
+panorama_002A630D_0E2E_0CB5_418A_2364C61E8A26.label = 88
+panorama_0025A30D_0E2E_515D_4147_D1BD3D32A1E3.label = 89
+panorama_03DD430D_0E23_27E2_4197_D679531F20E0.label = 9
+panorama_002A230D_0E2E_B0FF_41A1_79100DA08FCD.label = 90
+panorama_002AD30D_0E2E_828E_4192_E0B41565D4DF.label = 91
+panorama_0028A30D_0E2E_EFC3_4157_A15989B14A72.label = 92
+panorama_0027D30D_0E2F_3087_419D_D94CC1DD4343.label = 93
+panorama_002F730D_0E2F_0436_41A7_AAB0713D8E61.label = 94
+panorama_0027930D_0E2F_6D83_41A3_F1C4C32DE8F3.label = 95
+panorama_002E730D_0E2F_B83B_419B_0525B4F61554.label = 96
+panorama_002E430D_0E2F_8A62_41A5_1783973D2030.label = 97
+panorama_0026D30D_0E2F_EB05_416D_676A4BD19829.label = 98
+panorama_0027030D_0E2F_CBBB_419C_6823547933FC.label = 99
+video_91441D45_860C_68EE_41DA_7A9A121ECA3A.label = Madya Mandala
+video_93FB6D45_860C_056E_41E0_3F2E26E7149C.label = Nista Mandala
+video_995C51D1_8D4A_1AE8_41D8_08A0D7356134.label = Untitled design
+video_93F59D45_860C_2F46_41D2_716BA322BE78.label = Utama Mandala
+
+### Video
+videolevel_E948FBA6_F7C6_9527_41EC_22497458D654.url = media/video_91441D45_860C_68EE_41DA_7A9A121ECA3A_en.mp4
+videolevel_E948FBA6_F7C6_9527_41EC_22497458D654.posterURL = media/video_91441D45_860C_68EE_41DA_7A9A121ECA3A_poster_en.jpg
+videolevel_E9469CB0_F7C6_933A_41E0_E35B4D3CD67C.url = media/video_93F59D45_860C_2F46_41D2_716BA322BE78_en.mp4
+videolevel_E9469CB0_F7C6_933A_41E0_E35B4D3CD67C.posterURL = media/video_93F59D45_860C_2F46_41D2_716BA322BE78_poster_en.jpg
+videolevel_E947DC2B_F7C6_932D_41E4_DFDDD442AE77.url = media/video_93FB6D45_860C_056E_41E0_3F2E26E7149C_en.mp4
+videolevel_E947DC2B_F7C6_932D_41E4_DFDDD442AE77.posterURL = media/video_93FB6D45_860C_056E_41E0_3F2E26E7149C_poster_en.jpg
+videolevel_E94A6B26_F7C6_9527_41A2_386615F62066.url = media/video_995C51D1_8D4A_1AE8_41D8_08A0D7356134_en.mp4
+videolevel_E94A6B26_F7C6_9527_41A2_386615F62066.posterURL = media/video_995C51D1_8D4A_1AE8_41D8_08A0D7356134_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Informasi Pura
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = Informasi Pura
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Lokasi
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Lokasi
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = Panorama List
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Panorama List
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Photoalbum
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = Photoalbum
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = Sejarah Pura Goa Lawah
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = Sejarah Pura Goa Lawah
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = Tentang Website
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = Tentang Website
+
+### Image
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_en.png
+Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile_en.png
+
+### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Pura Goa Lawah, Kab. Klungkung
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = Pura Goa Lawah, Klungkung
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Virtual Tour
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = Virtual Tour
+
+### Multiline Text
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Oswald Regular;"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Oswald Regular;"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Oswald Regular;"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:Oswald Regular;"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:Oswald Regular;"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:Oswald Regular;"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:Oswald Regular;"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:Oswald Regular;"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Pura Goa Lawah
